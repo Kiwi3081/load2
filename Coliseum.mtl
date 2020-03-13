@@ -3,12 +3,12 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Ground Texture.png
+map_Kd GroundTexture.png
 Ni 1.00
 newmtl lambert5SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Coliseum Texture.png
+map_Kd ColiseumTexture.png
 Ni 1.00
